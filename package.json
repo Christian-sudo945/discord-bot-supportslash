@@ -1,5 +1,5 @@
 {
-  "name": "discordjs-14-slash-and-prefix",
+  "name": "discord-bot-supportslash",
   "version": "5.0.0",
   "description": "Discord bot draft that does not contain ready-made commands, compatible with discord.js v14. Create your own discord bot with this command handler.",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "Umut Bayraktar",
+  "author": "Christian | Dev",
   "license": "ISC",
   "dependencies": {
     "@discord-player/core": "^0.1.1",
